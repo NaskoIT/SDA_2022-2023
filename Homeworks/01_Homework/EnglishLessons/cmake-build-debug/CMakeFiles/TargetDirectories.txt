@@ -1,3 +1,0 @@
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/EnglishLessons/cmake-build-debug/CMakeFiles/EnglishLessons.dir
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/EnglishLessons/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/EnglishLessons/cmake-build-debug/CMakeFiles/rebuild_cache.dir

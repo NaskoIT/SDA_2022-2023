@@ -1,3 +1,0 @@
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/FootballTeam/cmake-build-debug/CMakeFiles/FootballTeam.dir
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/FootballTeam/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/SU/Semester 3/SDA/Homeworks/01_Homework/FootballTeam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

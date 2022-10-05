@@ -1,0 +1,3 @@
+1. Encoding passwords - https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password
+Rotate image: https://leetcode.com/problems/rotate-image/
+Задачи за упражнение: https://www.hackerrank.com/contests/practice-1-sda/challenges
