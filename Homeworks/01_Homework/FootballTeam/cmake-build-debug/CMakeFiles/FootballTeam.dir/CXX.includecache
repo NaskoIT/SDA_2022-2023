@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/SU/Semester 3/SDA/Homeworks/01_Homework/FootballTeam/main.cpp
+vector
+-
+algorithm
+-
+set
+-
+iostream
+-
+
